@@ -25,9 +25,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/KRISHNA/Documents/Angular/static_template/Md_Square/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "C:/Users/KRISHNA/Documents/Angular/static_template/Md_Square/node_modules/boxicons/css/boxicons.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/KRISHNA/Documents/Angular/static_template/Md_Square/node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
